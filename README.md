@@ -4,6 +4,7 @@
 
 目录如下：
 
+- [promise相关知识点]()
 - [promise基本使用](https://github.com/lpldplws/promise_learning/blob/master/article/1.promise%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8.md)
 - [手写一个promise](https://github.com/lpldplws/promise_learning/blob/master/article/2.%E6%89%8B%E5%86%99%E4%B8%80%E4%B8%AApromise.md)
 - [promise类库的实现](https://github.com/lpldplws/promise_learning/blob/master/article/3.promise%E7%B1%BB%E5%BA%93%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
