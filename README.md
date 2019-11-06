@@ -3,5 +3,6 @@
 包括：
 
 - [blog](https://github.com/lpldplws/blog/tree/master/blog)
-- [promise](https://github.com/lpldplws/blog/tree/master/promise)
-- [flutter](https://github.com/lpldplws/blog/tree/master/flutter)
+- [promise_learning](https://github.com/lpldplws/blog/tree/master/promise_learning)
+- [flutter_learning](https://github.com/lpldplws/blog/tree/master/flutter_learning)
+- [service_learning](https://github.com/lpldplws/blog/tree/master/service_learning)
